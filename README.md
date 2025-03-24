@@ -20,6 +20,6 @@
     It is necessary to carry out the initial processing of the training data, then determine the most significant features for predicting the value of houses. Then you need to test various models on the input dataset. Based on the most successful model, it was necessary to make predictions for the test data.
   </li>
   <li>
-    A grid search was used to find the best model and optimal parameters for this model.
+    A grid search was used to find the best model and optimal parameters for this model. The R2-score was used to evaluate the quality of the models.
   </li>
 </ol>
